@@ -1,0 +1,19 @@
+# Gradle caches and build output
+.gradle/
+build/
+out/
+*.class
+
+# IDE and operating system files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.log
